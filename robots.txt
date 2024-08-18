@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uletatle.github.io/sitemap.html.gz
+Sitemap: https://uletatle.github.io/app/sitemap.html.gz
+Sitemap: https://uletatle.github.io/assets/sitemap.html.gz
+Sitemap: https://uletatle.github.io/css/sitemap.html.gz
+Sitemap: https://uletatle.github.io/includes/sitemap.html.gz
+Sitemap: https://uletatle.github.io/item/sitemap.html.gz
+Sitemap: https://uletatle.github.io/src/sitemap.html.gz
